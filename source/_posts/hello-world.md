@@ -36,3 +36,6 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
+
+{% asset_img ./images/example.png This is an example image %}
+{% asset_path slug %}
